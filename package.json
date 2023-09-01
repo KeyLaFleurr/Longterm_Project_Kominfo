@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "air-datepicker": "^3.3.5",
+    "all": "^0.0.0",
+    "chart.js": "^4.2.1",
+    "datatables.net": "^1.13.1",
+    "package": "^1.0.1",
+    "qrcode": "^1.5.1",
+    "sweetalert2": "^11.7.0"
+  }
+}
